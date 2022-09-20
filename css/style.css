@@ -372,6 +372,8 @@ input, .form-select {
      border-radius: 0.25rem;
      font-size: 3rem;
      text-align: left;
+     color: white;
+     padding: 1rem;
 }
 textarea {
      resize: vertical;
