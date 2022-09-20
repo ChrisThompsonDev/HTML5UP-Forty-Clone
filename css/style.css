@@ -162,6 +162,7 @@ nav {
      padding-bottom: 17rem;
      padding-left: 4rem;
 }
+
 #banner1 {
      background-image: url(https://images.unsplash.com/photo-1663140102681-924817ef3337?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
 }
@@ -507,7 +508,13 @@ footer .footerTop .footerTopSection .footerTopSectionHeader {
      }
      #banner3, #ban3, #banner4, #ban4, #banner7, #ban7 {
           width: 60%;
+          padding: 10rem 10rem;
+          margin: 0 auto;
      }
+     /* .ban {
+          padding: 5rem 10rem;
+          margin: 0 auto;
+     } */
      .howSection {
           padding-left: 20rem;
      }
